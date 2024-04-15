@@ -1,2 +1,1 @@
-# PY-DJANGO
-This is a tutorial type django project 
+<img src="https://www.djangoproject.com/">
